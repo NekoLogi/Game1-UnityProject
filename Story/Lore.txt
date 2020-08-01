@@ -1,0 +1,11 @@
+Final Fantasy 7 inspired UI and Game-design.
+
+Die Geschichte spielt in einer mittelaltermässigen Welt,
+die in besitz von modernen Technologien und Magie ist,
+die von einem Meteoriten kommt der auf die Erde stürzte.
+mit einem stück vom Meteorit bekommt man Magische Fähigkeiten,
+die nicht jeder erträgt.
+
+Der Meteorit ist in der Hand vom Militär und wird an Elite-Soldaten getestet.
+Natürlich gibt es auch schmuggler die die stücke vom Stein in einem Schwarzmarkt,
+für einen hohen Preis verkaufen.
